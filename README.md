@@ -23,6 +23,6 @@
 
 ![CodeWars](https://www.codewars.com/users/DigoErisdar/badges/large)
 
-<a href="https://stackexchange.com/users/18181789"><img src="https://stackexchange.com/users/flair/18181789.png?theme=dark" width="208" height="58" alt="Профиль участника Даня в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Даня в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
+<a href="https://ru.stackexchange.com/users/18181789"><img src="https://stackexchange.com/users/flair/18181789.png?theme=dark" width="208" height="58" alt="Профиль участника Даня в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом" title="Профиль участника Даня в Stack Exchange, сети бесплатных сайтов вопросов и ответов, управляемых сообществом"></a>
 
 <img src="https://komarev.com/ghpvc/?username=DigoErisdar" alt="Profile Views" />
