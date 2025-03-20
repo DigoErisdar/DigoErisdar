@@ -2,10 +2,6 @@
 Привет, меня зовут Даниил!
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/kseikyo/kseikyo/output/snake.svg"><img src="https://raw.githubusercontent.com/kseikyo/kseikyo/output/snake.svg" alt="Snake animation" style="max-width: 100%;"></a>
 
-Мне 25 лет, я обожаю разработку веб-интерфейсов и все, что с ней связанно.
-
-В свободное от работы время - гуляю, отвечаю на StackOverflow, читаю техническую литературу, статьи.
-
 ## Мои навыки
 - 🧱 HTML (vanilla, pug), CSS (vanilla, scss/sass)
 - 📀 JavaScript
